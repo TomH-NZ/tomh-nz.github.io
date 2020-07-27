@@ -1,9 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: First Post!
 ---
-
-## First Post!
 
 ### 27/07/2020
 
