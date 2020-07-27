@@ -1,10 +1,10 @@
----
-layout: post
-title: You're up and running!
----
+# First Post!
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+### 27/07/2020
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![Hello fellow young people!](https://github.com/TomH-NZ/tomh-nz.github.io/blob/master/images/how-do-you-do-fellow-kids.png "Hello fellow young people!")
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+This blog will be used to document what I learn while I'm running through the acceleration phase of MYOB Future Makers Academy.  
+
+I'll be posting twice a week, with each post breaking down what I have learnt about software development during the week.  It will be split between C#, software development, coding practices and general coding knowledge, with the early entries leaning more towards C#.
+
