@@ -15,3 +15,5 @@ When the array is created you specify the datatype and number of elements in the
 ```
 string[] exampleStringArray = new string[5];
 ```
+
+The example above creates a string array with a length of 5, with the elements numbering from exampleStringArray[0] through to exampleStringArray[4].  
