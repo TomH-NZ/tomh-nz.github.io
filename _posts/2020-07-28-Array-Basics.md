@@ -20,19 +20,25 @@ The example above creates a string array with a length of 5, with the elements n
 
 Example 1:
 ```
+
 string[] exampleStringArray = new string[] {"Mon", "Tues", "Weds", "Thurs", "Fri", "Sat", "Sun"};
+
 ```
 This creates a new array with 7 elements, each element being a string.
 
 Example 2:
 ```
+
 int[] exampleIntegerArray = {1, 3, 5, 7, 9, 11};
+
 ```
 This example creates an array with 6 integer elements at the time that the array is instantiated. Even though the number of elements is not specified in the array C# is able to infer the number of elements from the data that is being fed into it.
 
 
 To call the element in the array you would need to specify the array name, as well as the location of the element, with the numbering of the elements starting from 0. For example:
 ```
+
 Console.Writeline(exampleStringArray[1]);
+
 ```
 This would call the 2nd element in the array, Tues, as the numbering goes [0] = "Mon", [1] = "Tues"  .... [6] = "Sun".
