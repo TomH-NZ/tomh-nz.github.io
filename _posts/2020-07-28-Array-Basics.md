@@ -3,7 +3,7 @@ layout: post
 title: C# Array Basics
 ---
 
-##Array Basics in C#.
+## Array Basics in C#.
 
 Arrays are data structures in C# that can hold multiple variables of the same type of data, with the datatype being specified when the array is instantiated. The three types of arrays are single dimensional, multi-dimensional and jagged arrays.
 This post will look at single dimensional arrays, with future posts looking at multi-dimensional and jagged arrays.
