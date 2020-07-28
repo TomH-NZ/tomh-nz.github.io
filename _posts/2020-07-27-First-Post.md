@@ -1,9 +1,7 @@
 ---
 layout: post
-title: First Post!
+title: First Post - 27/07/2020!
 ---
-
-### 27/07/2020
 
 ![Hello fellow young people!]( images/how-do-you-do-fellow-kids-jpg.jpg "Hello fellow young people!")
 
