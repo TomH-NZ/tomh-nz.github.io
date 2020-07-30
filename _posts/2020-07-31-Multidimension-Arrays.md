@@ -15,7 +15,7 @@ The following example creates an array with 4 columns and 2 rows per column:
 int[,] multidimensionalArray1 = new in[4, 2]
 {
   {1, 2}, {2, 3}, {3, 4}, {4, 5}
-}:
+};
 
 ```
 
@@ -28,7 +28,7 @@ int[,,] multidimensionalArray2 = new int[2, 2, 3]
 {
   {{1, 2, 3}, {4, 5, 6}}, 
   {{7, 8, 9}, {10, 11, 12}}
-}
+};
 
 ```
 
