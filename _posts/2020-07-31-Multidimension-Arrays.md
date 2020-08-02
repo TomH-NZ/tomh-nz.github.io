@@ -22,14 +22,14 @@ int[,] multidimensionalArray1 = new in[4, 2]
 
 To create an array with more than 2 dimensions you would specify the details at the time of creation.  For example, an array with 2 columns, 2 rows and 3 segments would look like:
 
-```
+{%raw%}
 
 int[,,] multidimensionalArray2 = new int[2, 2, 3]
 { 
 {{1, 2, 3},{4, 5, 6}},{{7, 8, 9},{10, 11, 12}}
 };
 
-```
+{%endraw%}
 
 
 When calling the data contained in the array you would need to pass the location information for the element, otherwise an error will be returned.  For example, to call the first element of a 2 dimensional array:
