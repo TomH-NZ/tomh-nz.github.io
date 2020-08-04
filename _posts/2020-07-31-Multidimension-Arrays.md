@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multidimension Arrays in C#
+title: Multidimension Array Basics in C#
 ---
 
 ### Multidimensional Array Basics!
