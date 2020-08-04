@@ -16,7 +16,7 @@ The following example creates an array with 4 columns and 2 rows per column:
 To create an array with more than 2 dimensions you would specify the details at the time of creation.  For example, an array with 2 columns, 2 rows and 3 segments would look like:
 
 
-![3D multidimensional array example with data]( images/new_multidimension_integer_array_example_002.jpg "3D multidimensional array example with data")
+![3D multidimensional array example with data]( https://raw.githubusercontent.com/TomH-NZ/tomh-nz.github.io/master/images/multidimensional_int_array_console_example_002.jpg "3D multidimensional array example with data")
 
 
 
@@ -28,7 +28,7 @@ This returns the value of **1** (column 0, row 0).
 
 To call the data in an array with more than 2 dimensions you would use:
 
-![3D multidimensional array console write example]( images/multidimensional_int_array_console_example_001.jpg "3D multidimensional array console write example" )
+![3D multidimensional array console write example]( https://raw.githubusercontent.com/TomH-NZ/tomh-nz.github.io/master/images/multidimensional_int_array_console_example_001.jpg "3D multidimensional array console write example" )
 
 This call returns the value of **12** (column 1, row 1, segment 2).
 
