@@ -8,18 +8,15 @@ title: Ternary Operator Basics in C#
  The conditional operator "_? :_" , or Ternary operator, is used in C# to replace short if/else statements and make the code cleaner and more human readable.  It does this by looking at a Boolean expression and returning one of two results, depending on whether the expression evaluates to true or false.
 
  A basic way of looking at it like this:
- 
  _is this condition true ? yes - return first value : no - return second value_
  
  An example of a ternary operator is:
- 
 " _5 > 3 ? Five is greater than three : Five is less than three_ "
 
 This line would return the value of "_Five is greater than three_", as the condition _5 > 3_ would evaluate to true, so the system returns the first value.
 
 
 " _5 > 10 ? Five is greater than ten : Five is less than ten_ "
-
 In this example _5 > 10_ would evaluate to false, so it would return " _Five is less than ten_ ".
 
 
