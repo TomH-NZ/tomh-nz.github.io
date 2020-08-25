@@ -3,7 +3,7 @@ layout: post
 title: While / Do-While Basics in C#
 ---
 
-###Looking at While / Do-While loop basics in C#
+### Looking at While / Do-While loop basics in C#
 
 A While loop runs through a block of code until a specified condition is met. When the condition is met, the loop exits. For example:
 
