@@ -3,6 +3,8 @@ layout: post
 title: Data Types Basics in C#
 ---
 
+### Looking at Data Type basics in C#
+
 In C# there are two main data types that are used, value types and reference types, with the difference being in the way that each type stores it's data in the system memory.
 
 Value types store the assigned value in the memory space assiged to the variable. For example:
