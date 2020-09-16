@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Xunit Unit Test Constructor Basics
+title: XUnit Unit Test Constructor Basics
 ---
 
 ### Looking at constructors in XUnit Unit Testing in C#.
