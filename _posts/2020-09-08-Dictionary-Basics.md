@@ -20,12 +20,19 @@ Because the keys for the two entries that have the value of 100 (_Ducati_ and _K
 
 To retrieve the values from a dictionary, the most efficient way is to use the _TryGetValue_ method.  For example:
 
-![A TryGetValue example](https://raw.githubusercontent.com/TomH-NZ/tomh-nz.github.io/master/images/Dictionary_Example_003.jpg "A TryGetValue value example")
+![A TryGetValue example](https://raw.githubusercontent.com/TomH-NZ/tomh-nz.github.io/master/images/Dictionary_Example_003.jpg "A TryGetValue example")
 
 
 The above code will return the result of 120, which is the value that matches to the key of "_BMW_".  Because _TryGetValue_ returns a bool (true/false) result, if you want to get the value then you need to specify an output object (_outputValue_ in this case) and then call that object from there.
 
-To add or remove a key-value pair from a dictionary the process is similar.
+It is possible to call a dictionary key directly by using the dictionary name, with the key entered in square brackets.  For example:
+
+![Calling a dictionary key directly example](https://raw.githubusercontent.com/TomH-NZ/tomh-nz.github.io/master/images/Dictionary_Example_004.jpg "Calling a dictionary key directly example")
+
+
+When it is written to the console the above code will display _100_.
+
+To add or remove a key-value pair from a dictionary the two processes are similar.
 
 _dictionaryExample.Add("Holden", 200);_ is used to add a key-value pair to the dictionary.
 
